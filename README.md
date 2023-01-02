@@ -7,10 +7,10 @@ Use the 5 Day Weather Forecast Links to an external site.to retrieve weather dat
 
 
 # Repository link
-https://github.com/KevLuck/Work-Day-Scheduler.git
+https://github.com/KevLuck/WeatherDashboard.git
 
 # Website link
-https://kevluck.github.io/Work-Day-Scheduler/
+https://kevluck.github.io/WeatherDashboard/
 
 # Screenshot
 
